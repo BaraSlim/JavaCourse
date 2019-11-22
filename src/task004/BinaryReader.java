@@ -7,6 +7,7 @@ public class BinaryReader {
         System.out.println("Введите число в бинарном формате: ");   //Предложение к действию
         String bin = sc.nextLine();                                 //Получаем введенное число из консоли
         int binNum = Integer.parseInt(bin, 2);                //Перевод bin в десят. формат
-        System.out.println(binNum);                                 //Вывод результата на экран
+        System.out.println("Ваше число = " + binNum);                                 //Вывод результата на экран
+        System.out.println("Спасибо, что воспользовались нашим конвертером!");
     }
 }
