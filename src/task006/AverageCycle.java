@@ -15,7 +15,7 @@ public class AverageCycle {
         average = x * y * z / 3;
         System.out.println("Полученные цифры: \nX = " + x + "\nY = " + y + "\nZ = " + z);
         System.out.println("Среднее арифметическое число = " + average);
-        if ((average % 2) == 0) {
+        if (average/2 > 3) {
             System.out.println("Программа выполнена корректно");
         }
     }
