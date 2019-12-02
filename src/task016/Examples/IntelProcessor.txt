@@ -1,0 +1,65 @@
+Процессор CPU Intel Core i5-8500 3.0 GHz / 6core / SVGA UHD Graphics 630 / 1.5+9Mb / 65W / 8 GT / s LGA1151		15841	17036	36.4%
++Процессор CPU Intel Core i5-9500F 3.0 GHz / 6core / 1.5+9Mb / 65W / 8GT / s LGA1151		12949	13767	35.9%
++Процессор CPU Intel Core i5-9400F BOX 2.9 GHz / 6core / 1.5+9Mb / 65W / 8 GT / s LGA1151		10875	11504	35.7%
++Процессор CPU Intel Core i5-9400F 2.9 GHz / 6core / 1.5+9Mb / 65W / 8GT / s LGA1151		10623	11252	35.7%
++Процессор CPU Intel Core i5-8400 BOX 2.8 GHz / 6core / SVGA UHD Graphics 630 / 1.5+9Mb / 65W / 8 GT / s LGA1151		14206	14961	34.9%
++Процессор CPU Intel Xeon E5-2620 V4 2.1 GHz / 8core / +20Mb / 85W / 8 GT / s LGA2011-3		26338	28162	34.8%
++Процессор CPU Intel Core i5-8400 2.8 GHz / 6core / SVGA UHD Graphics 630 / 1.5+9Mb / 65W / 8 GT / s LGA1151		13766	14584	34.8%
++Процессор CPU Intel Core i7-7700 BOX 3.6 GHz / 4core / SVGA HD Graphics 630 / 1+8Mb / 65W / 8 GT / s LGA1151		26464	28287	33%
++Процессор CPU Intel Core i7-7700 3.6 GHz / 4core / SVGA HD Graphics 630 / 1+8Mb / 65W / 8 GT / s LGA1151		22567	24013	33%
++Процессор CPU Intel Xeon E3-1270 V6 3.8 GHz / 4core / 1+8Mb / 72W / 8 GT / s LGA1151		23887	25522	32.9%
++Процессор CPU Intel Xeon E3-1245 V6 3.7 GHz / 4core / SVGA HD Graphics P630 / 1+8Mb / 73W / 8 GT / s LGA1151		22001	23447	32.2%
++Процессор CPU Intel Xeon E3-1240 V6 3.7 GHz / 4core / 1+8Mb / 72W / 8 GT / s LGA1151		20744	22127	32.2%
++Процессор CPU AMD Ryzen 5 2500X (YD250XB) 3.6 GHz / 4core / 2+8Mb / 65W Socket AM4		7865	8109	31.7%
++Процессор CPU Intel Xeon E3-1230 V6 3.5 GHz / 4core / 1+8Mb / 72W / 8 GT / s LGA1151		19109	20241	30.8%
++Процессор CPU Intel Xeon E3-1240 V5 3.5 GHz / 4core / 1+8Mb / 80W / 8 GT / s LGA1151		20304	21624	30.8%
++Процессор CPU AMD Ryzen 5 3400G BOX (YD3400C) 3.7 GHz / 4core / SVGA RADEONRX Vega 11 / 2+4Mb / 65W Socket AM4		10686	11252	30.7%
++Процессор CPU Intel Xeon E3-1245 V5 3.5 GHz / 4core / SVGA HD Graphics P530 / 1+8Mb / 80W / 8 GT / s LGA1151		20744	22064	30%
++Процессор CPU Intel Xeon E3-1230 V5 3.4 GHz / 4core / 1+8Mb / 80W / 8 GT / s LGA1151		19109	20367	29.8%
++Процессор CPU AMD Ryzen 5 3400G (YD3400C) 3.7 GHz / 4core / SVGA RADEONRX Vega 11 / 2+4Mb / 65W Socket AM4		8926	9555	29.8%
++Процессор CPU Intel Core i3-9350KF BOX (без кулера) 4.0 GHz / 4core / 1+8Mb / 91W / 8 GT / s LGA1151		11441		27.8%
++Процессор CPU Intel Core i3-9350KF 4.0 GHz / 4core / 1+8Mb / 91W / 8 GT / s LGA1151		10812	11630	27.8%
++Процессор CPU AMD Ryzen 5 2400G BOX (YD2400C) 3.6 GHz / 4core / SVGA RADEON RX Vega 11 / 2+4Mb / 65W Socket AM4		9743	10372	27.3%
++Процессор CPU AMD Ryzen 5 2400G (YD2400C) 3.6 GHz / 4core / SVGA RADEON RX Vega 11 / 2+4Mb / 65W Socket AM4		8863	9492	27.3%
++Процессор CPU AMD Ryzen 5 1400 (YD1400B) 3.2 GHz / 4core / 2+8Mb / 65W Socket AM4		4991	5344	25.1%
++Процессор CPU Intel Core i3-9100F BOX 3.6 GHz / 4core / 1+6Mb / 65W / 8 GT / s LGA1151		6035	6412	25%
++Процессор CPU Intel Core i3-9100F 3.6 GHz / 4core / 1+6Mb / 65W / 8 GT / s LGA1151		5846	6224	25%
++Процессор CPU Intel Core i7-3770 3.4 GHz / 4core / SVGA HD Graphics 4000 / 1+8Mb / 77W / 5 GT / s LGA1155		20618	22001	24.9%
++Процессор CPU Intel Core i3-8300 3.7 GHz / 4core / SVGA UHD Graphics 630 / 8Mb / 62W / 8 GT / s LGA1151		11189	11818	24.3%
++Процессор CPU Intel Core i5-7500 3.4 GHz / 4core / SVGA HD Graphics 630 / 1+6Mb / 65W / 8 GT / s LGA1151		13515	14270	23.3%
++Процессор CPU Intel Core i3-9100 3.6 GHz / 4core / SVGA UHD Graphics 630 / 1+6Mb / 65W / 8 GT / s LGA1151		9429	9870	23.3%
++Процессор CPU AMD Ryzen 3 2300X (YD230XB) 3.5 GHz / 4core / 2+8Mb / 65W Socket AM4		5783	6161	23.3%
++Процессор CPU Intel Core i3-8100 BOX 3.6 GHz / 4core / SVGA UHD Graphics 630 / 6Mb / 65W / 8 GT / s LGA1151		9115	9744	23.2%
++Процессор CPU Intel Core i3-8100 3.6 GHz / 4core / SVGA UHD Graphics 630 / 6Mb / 65W / 8 GT / s LGA1151		8549	9052	23.2%
++Процессор CPU Intel Xeon E3-1225 V6 3.3 GHz / 4core / SVGA HD Graphics P630 / 1+8Mb / 73W / 8 GT / s LGA1151		16092	17224	23%
++Процессор CPU AMD Ryzen 3 3200G BOX (YD3200C5) 3.6 GHz / 4core / SVGA RADEON Vega 8 / 2+4Mb / 65W Socket AM4		7438	7669	22.3%
++Процессор CPU AMD Ryzen 3 3200G (YD3200C5) 3.6 GHz / 4core / SVGA RADEON Vega 8 / 2+4Mb / 65W Socket AM4		6248	6601	22.3%
++Процессор CPU Intel Xeon E5-2623 V4 2.6 GHz / 4core / 1+10Mb / 85W / 8 GT / s LGA2011-3		32876	35076	22.1%
++Процессор CPU Intel Core i5-7600K BOX (без кулера) 3.8 GHz / 4core / SVGA HD Graphics 630 / 1+6Mb / 91W / 8 GT / s LGA1151		18355	19550	22.1%
++Процессор CPU Intel Core i5-7600K 3.8 GHz / 4core / SVGA HD Graphics 630 / 1+6Mb / 91W / 8 GT / s LGA1151		17727	18984	22.1%
++Процессор CPU Intel Xeon E3-1220 V6 3.0 GHz / 4core / 1+8Mb / 72W / 8 GT / s LGA1151		14709	15715	21.6%
++Процессор CPU Intel Core i5-7400 BOX 3 GHz / 4core / SVGA HD Graphics 630 / 1+6Mb / 65W / 8 GT / s LGA1151		13578	14395	21.5%
++Процессор CPU Intel Core i5-6500 BOX 3.2 GHz / 4core / SVGA HD Graphics 530 / 1+6Mb / 65W / LGA1151		16281		21.5%
++Процессор CPU Intel Core i5-6500 3.2 GHz / 4core / SVGA HD Graphics 530 / 1+6Mb / 65W / LGA1151		14710		21.5%
++Процессор CPU AMD Ryzen 3 2200G BOX (YD2200C5) 3.5 GHz / 4core / SVGA RADEON Vega 8 / 2+4Mb / 65W Socket AM4		6192	6538	20%
++Процессор CPU AMD Ryzen 3 2200G (YD2200C5) 3.5 GHz / 4core / SVGA RADEON Vega 8 / 2+4Mb / 65W Socket AM4		5183	5270	20%
++Процессор CPU Intel Core i5-4460 3.2 GHz / 4core / SVGA HD Graphics 4600 / 1+6Mb / 84W / 5 GT / s LGA1150		13515		19.3%
++Процессор CPU AMD Ryzen 3 1200 BOX (YD1200B) 3.1 GHz / 4core / 2+8Mb / 65W Socket AM4		3960	4212	18.2%
++Процессор CPU AMD Ryzen 3 1200 (YD1200B) 3.1 GHz / 4core / 2+8Mb / 65W Socket AM4		3401	3646	18.2%
++Процессор CPU Intel Core i3-7350K BOX (без кулера) 4.2 GHz / 2core / SVGA HDGraphics 630 / 4Mb / 60W / 8 GT / s LGA1151		10372		18%
++Процессор CPU Intel Core i3-7350K 4.2 GHz / 2core / SVGA HD Graphics 630 / 4Mb / 60W / 8 GT / s LGA1151		9618	10310	18%
++Процессор CPU Intel Core i3-6320 3.9 GHz / 2core / SVGA HD Graphics 530 / 0.5+ 4Mb / 51W / 8 GT / s LGA1151		11944		16.8%
++Процессор CPU Intel Core i3-7100 BOX 3.9 GHz / 2core / SVGA HD Graphics 630 / 0.5+ 3Mb / 51W / 8 GT / s LGA1151		9240	9932	16.6%
++Процессор CPU Intel Core i3-7100 3.9 GHz / 2core / SVGA HD Graphics 630 / 0.5+ 3Mb / 51W / 8 GT / s LGA1151		8235	8675	16.6%
++Процессор CPU Intel Core i3-6300 3.8 GHz / 2core / SVGA HD Graphics 530 / 0.5+ 4Mb / 51W / 8 GT / s LGA1151		9995	10750	16.5%
++Процессор CPU Intel Pentium G5600F 3.9 GHz / 2core / 4Mb / 54W / 8 GT / s LGA1151		5576	5972	16.1%
++Процессор CPU Intel Core i3-6100 3.7 GHz / 2core / SVGA HD Graphics 530 / 0.5+ 3Mb / 51W / 8 GT / s LGA1151		8298	8801	15.9%
++Процессор CPU Intel Pentium G5420 3.8 GHz / 2core / SVGA UHD Graphics 610 / 4Mb / 54W / 8 GT / s LGA1151		4149	4401	15.8%
++Процессор CPU Intel Pentium G5400 BOX 3.7 GHz / 2core / SVGA UHD Graphics 610 / 4Mb / 58W / 8 GT / s LGA1151		4067	4338	15.5%
++Процессор CPU Intel Pentium G5400 3.7 GHz / 2core / SVGA UHD Graphics 610 / 4Mb / 58W / 8 GT / s LGA1151		3816	4086	15.5%
++Процессор CPU Intel Pentium G4600 3.6 GHz / 2core / SVGA HD Graphics 630 / 0.5+3Mb / 51W / 8GT / s LGA1151		4817		15%
++Процессор CPU Intel Core i3-4170 3.7 GHz / 2core / SVGA HD Graphics 4400 / 0.5+3Mb / 54W / 5 GT / s LGA1150		7732	8109	14%
++Процессор CPU AMD Athlon 220GE BOX (YD220GC) 3.4 GHz / 2core / 1+4Mb / SVGA RADEON Vega 3 / 35W / Socket AM4		4205	4464	13.8%
++Процессор CPU AMD Athlon 240GE BOX (YD240GC) 3.5 GHz / 2core / 1+4Mb / SVGA RADEON Vega 3 / 35W / Socket AM4		3495	3646	13.7%
++Процессор CPU AMD A10-9700 (AD9700AG) 3.5 GHz / 4core / SVGA RADEON R7 / 2 Mb / 65W / Socket AM4		3369	3584	12.9%
++Процессор CPU AMD Athlon 200GE BOX (YD200GC) 3.2 GHz / 2core / 1+4Mb / SVGA RADEON Vega 3 / 35W / Socket AM4		3174	3395	12.8%
