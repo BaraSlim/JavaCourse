@@ -5,7 +5,7 @@
 +Процессор CPU Intel Core i5-8400 BOX 2.8 GHz / 6core / SVGA UHD Graphics 630 / 1.5+9Mb / 65W / 8 GT / s LGA1151		14206	14961	34.9%
 +Процессор CPU Intel Xeon E5-2620 V4 2.1 GHz / 8core / +20Mb / 85W / 8 GT / s LGA2011-3		26338	28162	34.8%
 +Процессор CPU Intel Core i5-8400 2.8 GHz / 6core / SVGA UHD Graphics 630 / 1.5+9Mb / 65W / 8 GT / s LGA1151		13766	14584	34.8%
-+Процессор CPU Intel Core i7-7700 BOX 3.6 GHz / 4core / SVGA HD Graphics 630 / 1+8Mb / 65W / 8 GT / s LGA1151		26464	28287	33%
+555555555555555555555555555555555555555555555555555555
 +Процессор CPU Intel Core i7-7700 3.6 GHz / 4core / SVGA HD Graphics 630 / 1+8Mb / 65W / 8 GT / s LGA1151		22567	24013	33%
 +Процессор CPU Intel Xeon E3-1270 V6 3.8 GHz / 4core / 1+8Mb / 72W / 8 GT / s LGA1151		23887	25522	32.9%
 +Процессор CPU Intel Xeon E3-1245 V6 3.7 GHz / 4core / SVGA HD Graphics P630 / 1+8Mb / 73W / 8 GT / s LGA1151		22001	23447	32.2%
