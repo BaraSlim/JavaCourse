@@ -2,6 +2,11 @@ package task015;
 
 import java.util.Scanner;
 
+/**
+ *      Написать программу сортировки по возрастанию заданного пользователем массива чисел.
+ *      Использовать пузырьковый метод сортировки.
+ * */
+
 public class UserBubbleSort {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

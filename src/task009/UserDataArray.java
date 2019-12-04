@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ *      Произведите ввод данных с клавиатуры в массив, а после этого произведите вывод массива на экран,
+ *      где каждый элемент массива умножается на 2.
+ *      Размер массива задается пользователем.
+ * */
+
 public class UserDataArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

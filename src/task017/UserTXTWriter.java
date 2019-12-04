@@ -5,6 +5,12 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
+/**
+ *      Необходимо написать программу, которая будет записывать текстовые данные, введенные с экрана, в файл .txt.
+ *      Запись ввести в файл до тех пор, пока не будет введена команда стоп в консоли. Пользователь при тестировании
+ *      программы по правилу черного ящика должен понимать, какой принцип остановки записи в файл он должен подать.
+ * */
+
 public class UserTXTWriter {
     public static void main(String[] args) {
         String path = "C:\\Users\\user\\IdeaProjects\\com.java.course\\src\\task016\\Examples\\myTest.txt"; //путь к файлу

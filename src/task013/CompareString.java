@@ -2,6 +2,13 @@ package task013;
 
 import java.util.Scanner;
 
+/**
+ *      Необходимо провести сравнение длины двух строк, которые были введены с клавиатуры
+ *      и записаны в соответствующие переменные.
+ *      Вывести на экран строку с наибольшей длиной.
+ *      Если длины равны, вывести соответствтующее сообщение.
+ * */
+
 public class CompareString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

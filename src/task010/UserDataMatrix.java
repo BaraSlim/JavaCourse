@@ -2,6 +2,13 @@ package task010;
 
 import java.util.Scanner;
 
+/**
+ *      Произведите ввод данных с клавиатуры в матрицу, а после этого произведите
+ *      вывод первой строки матрицы на экран,
+ *      где каждый элемент умножается на 3.
+ *      Размерность матрицы задается пользователем.
+ * */
+
 public class UserDataMatrix {
     public static void main(String[] args) {
         int[][] matrix;

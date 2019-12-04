@@ -2,6 +2,11 @@ package task005;
 
 import java.util.Scanner;
 
+/**
+ *      Необходимо вывести на экран таблицу умножения от 1 до 10 для введённого пользователем любого числа.
+ *      Использовать циклы запрещено.
+ * */
+
 public class MultiplicationTable {
     public static void main(String[] args) {
         int i = 0;
